@@ -1,0 +1,17 @@
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\obj\Debug\net11.0\Lab3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\obj\Debug\net11.0\Lab3.1.AssemblyInfoInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\obj\Debug\net11.0\Lab3.1.AssemblyInfo.cs
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\obj\Debug\net11.0\Lab3.1.csproj.CoreCompileInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\obj\Debug\net11.0\Lab3.1.sourcelink.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\bin\Debug\net11.0\Lab3.1.exe
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\bin\Debug\net11.0\Lab3.1.deps.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\bin\Debug\net11.0\Lab3.1.runtimeconfig.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\bin\Debug\net11.0\Lab3.1.runtimeconfig.dev.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\bin\Debug\net11.0\Lab3.1.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\bin\Debug\net11.0\Lab3.1.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\obj\Debug\net11.0\Lab3.1.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\obj\Debug\net11.0\refint\Lab3.1.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\obj\Debug\net11.0\Lab3.1.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\obj\Debug\net11.0\Lab3.1.genruntimeconfig.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\obj\Debug\net11.0\ref\Lab3.1.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAChallengeLabs\Lab3.1\obj\Debug\net11.0\Lab3.1.csproj.Up2Date
